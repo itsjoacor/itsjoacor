@@ -7,6 +7,7 @@ My work spans across building applications using modern technologies like **Java
 - *Epersgeist*: A persistence strategy project based on a model of spirits and demons, implementing Java, Hibernate, Spring, and various databases like MySQL and Neo4j.
 - *MercadoLibre Conceptual Clone*: A conceptual development of the MercadoLibre website for educational purposes, using React, Tailwind, and API integration.
 - *Portfolio Website*: A personal portfolio showcasing my skills and projects, built with HTML, CSS, and JavaScript.
+- *Parking Meter System*: Development of a metered parking system,for managing street parking, integrating mobile access as payment methods.
 
 *I am open to*:
 - Collaboration on web development projects,
