@@ -50,9 +50,9 @@ My work spans across building applications using modern technologies like *Java,
 
 <p align="center">
   
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yourprofile)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yourgithubprofile)
-[<img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=browser&logoColor=white" />](https://yourwebsite.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaco-rodriguez)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/itsjoacor)
+[<img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=browser&logoColor=white" />](https://itsjoacordev.netlify.app)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/+5491121865149)  
 </p>
 
