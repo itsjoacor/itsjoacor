@@ -50,11 +50,11 @@ My work spans across building applications using modern technologies like *Java,
 
 <p align="center">
   
-[<img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://linkedin.com/in/joaco-rodriguez)
-[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/itsjoacor)
-[<img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" />](https://itsjoacordev.netlifly.app)
-
+[<img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=lightblue" />](https://www.linkedin.com/in/yourprofile)
+[<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/yourgithubprofile)
+[<img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=www&logoColor=pastelyellow&color=black" />](https://yourwebsite.com)
+[<img src="https://img.shields.io/badge/WhatsApp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=green&color=black" />](https://wa.me/+5491121865149/?text=Hi%20there!%20I%20am%20contacting%20you%20regarding%20your%20developer%20portfolio.%20We%20would%20like%20to%20schedule%20a%20meeting%20and%20get%20to%20know%20you.%20What%20is%20your%20availability?)
+  
 </p>
 
 
-| ------------- | ------------- |
